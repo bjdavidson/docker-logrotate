@@ -1,4 +1,4 @@
-FROM alpine:3.11.5
+FROM alpine:3.13.7
 MAINTAINER Hortonworks
 
 RUN apk --update add bash logrotate
